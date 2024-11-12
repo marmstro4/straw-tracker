@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "1c137193b441a48b",
+    "type": "split",
+    "children": [
+      {
+        "id": "feaac5db437e09eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f3a4e9cd9695862",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "pictures/Pasted image 20241111105406.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241111105406"
+            }
+          },
+          {
+            "id": "1e6309b9b819efb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "griffin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "griffin"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a8360c2d9a75f02",
+    "type": "split",
+    "children": [
+      {
+        "id": "013ceac193677242",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7980e62de07c0dcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cd99bed127063cfb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "771df26a9bb369d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f7c936281582995",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bb8bb8b1b2d3f2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8a2d6e61e5f28cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "d0ec53edccc4f0b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "454ee6a4cce5a4aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4a046402356f0539",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1e6309b9b819efb7",
+  "lastOpenFiles": [
+    "Pasted image 20241111164302.png",
+    "Garfield++.md",
+    "Pasted image 20241111162717.png",
+    "Pasted image 20241111162605.png",
+    "griffin.md",
+    "ar_93_co2_7.gas",
+    "documents/UserGuide.pdf",
+    "Na62-tracker.md",
+    "Na62-StrawTracker.pdf",
+    "Mechanics.md",
+    "ExPRT-target.md",
+    "pictures/Pasted image 20241111105113.png",
+    "pictures/Pasted image 20241111105406.png",
+    "pictures",
+    "documents",
+    "documents/Na62Chapter-StrawTracker-Technical.pdf",
+    "Home.md",
+    "simulate.md",
+    "documents/LH2 poster.pdf",
+    "Simulations.md",
+    "ICEC29-ICMC2024 LH2 Poster.md",
+    "ICEC29-ICMC2024 LH2 Poster #392.pdf"
+  ]
+}
