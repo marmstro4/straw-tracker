@@ -11,30 +11,17 @@
             "id": "1f3a4e9cd9695862",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "pictures/Pasted image 20241111105406.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241111105406"
-            }
-          },
-          {
-            "id": "1e6309b9b819efb7",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "griffin.md",
+                "file": "Garfield++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "griffin"
+              "title": "Garfield++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9f7c936281582995",
@@ -175,29 +162,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e6309b9b819efb7",
+  "active": "1f3a4e9cd9695862",
   "lastOpenFiles": [
-    "Pasted image 20241111164302.png",
-    "Garfield++.md",
-    "Pasted image 20241111162717.png",
-    "Pasted image 20241111162605.png",
+    "Michael's Garfield simulations.md",
+    "Gas system.md",
+    "Home.md",
+    "Mechanics.md",
     "griffin.md",
+    "Na62-tracker.md",
+    "documents/RE-TDR-2017-001.pdf",
+    "stopping power.md",
+    "Cell radius.md",
+    "Garfield++.md",
+    "Simulations.md",
+    "Na62-StrawTracker.pdf",
+    "simulate.md",
+    "README.md",
+    "PreAmp.md",
+    "documents/1311.3893v2.pdf",
+    "Electronics.md",
+    "amplification/shaping.md",
+    "amplification",
+    "pictures/Pasted image 20241111164302 1.png",
+    "pictures/Pasted image 20241111164302.png",
+    "pictures/Pasted image 20241111162717.png",
+    "pictures/Pasted image 20241111105406.png",
+    "pictures/Pasted image 20241111162605.png",
     "ar_93_co2_7.gas",
     "documents/UserGuide.pdf",
-    "Na62-tracker.md",
-    "Na62-StrawTracker.pdf",
-    "Mechanics.md",
     "ExPRT-target.md",
     "pictures/Pasted image 20241111105113.png",
-    "pictures/Pasted image 20241111105406.png",
     "pictures",
     "documents",
     "documents/Na62Chapter-StrawTracker-Technical.pdf",
-    "Home.md",
-    "simulate.md",
     "documents/LH2 poster.pdf",
-    "Simulations.md",
-    "ICEC29-ICMC2024 LH2 Poster.md",
-    "ICEC29-ICMC2024 LH2 Poster #392.pdf"
+    "ICEC29-ICMC2024 LH2 Poster.md"
   ]
 }

@@ -1,0 +1,1 @@
+0.5-1.5cm radius as a start, figure out how many layers we can fit inside that volume (3-5)

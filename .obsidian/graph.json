@@ -1,22 +1,58 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Mechanics",
+      "color": {
+        "a": 1,
+        "rgb": 14370888
+      }
+    },
+    {
+      "query": "Simulations",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "Electronics",
+      "color": {
+        "a": 1,
+        "rgb": 6449882
+      }
+    },
+    {
+      "query": "Gas system",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "Home",
+      "color": {
+        "a": 1,
+        "rgb": 15597823
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 0.993229166666667,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.6666666666666666,
-  "close": true
+  "close": false
 }
