@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garfield++.md",
+                "file": "Michael's Garfield simulations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garfield++"
+              "title": "Michael's Garfield simulations"
             }
           }
         ]
@@ -164,18 +164,19 @@
   },
   "active": "1f3a4e9cd9695862",
   "lastOpenFiles": [
-    "Michael's Garfield simulations.md",
     "Gas system.md",
-    "Home.md",
-    "Mechanics.md",
     "griffin.md",
-    "Na62-tracker.md",
-    "documents/RE-TDR-2017-001.pdf",
-    "stopping power.md",
+    "Home.md",
     "Cell radius.md",
     "Garfield++.md",
     "Simulations.md",
-    "Na62-StrawTracker.pdf",
+    "documents/UserGuide.pdf",
+    "Michael's Garfield simulations.md",
+    "Mechanics.md",
+    "Na62-tracker.md",
+    "documents/RE-TDR-2017-001.pdf",
+    "stopping power.md",
+    "documents/Na62-StrawTracker.pdf",
     "simulate.md",
     "README.md",
     "PreAmp.md",
@@ -189,7 +190,6 @@
     "pictures/Pasted image 20241111105406.png",
     "pictures/Pasted image 20241111162605.png",
     "ar_93_co2_7.gas",
-    "documents/UserGuide.pdf",
     "ExPRT-target.md",
     "pictures/Pasted image 20241111105113.png",
     "pictures",

@@ -6,6 +6,8 @@ The user guide for Garfield++ is below ![[UserGuide.pdf]]
 
 In [[Michael's Garfield simulations|Michael"s simulations]] different gas mixtures are investigated.
 
+Be warned that making gases in Garfield takes ~1-2h. Interestingly chaning the field parameters doesn't actually change this much.
+
 
 
 
