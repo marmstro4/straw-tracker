@@ -11,14 +11,12 @@
             "id": "1f3a4e9cd9695862",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Simulations/Garfield++.md",
-                "mode": "source",
-                "source": false
+                "file": "pictures/Pasted image 20241119144352.png"
               },
-              "icon": "lucide-file",
-              "title": "Garfield++"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241119144352"
             }
           }
         ]
@@ -162,9 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f3a4e9cd9695862",
+  "active": "7980e62de07c0dcf",
   "lastOpenFiles": [
     "Simulations/Michael's Garfield simulations.md",
+    "Simulations/Garfield++.md",
+    "pictures/Pasted image 20241119164346.png",
+    "pictures/Pasted image 20241119154159.png",
+    "pictures/Pasted image 20241119151720.png",
+    "pictures/Pasted image 20241119144352.png",
     "Trackers",
     "Gas",
     "Electronics",
@@ -174,7 +177,6 @@
     "documents/Pasted image 20241118102744.png",
     "here.md",
     "documents/note95-022.pdf",
-    "Simulations/Garfield++.md",
     "Simulations/Simulations.md",
     "Simulations/griffin.md",
     "Gas/Gas system.md",
@@ -196,9 +198,7 @@
     "pictures/Pasted image 20241111164302.png",
     "pictures/Pasted image 20241111162717.png",
     "pictures/Pasted image 20241111105406.png",
-    "pictures/Pasted image 20241111162605.png",
     "Mechanics/ExPRT-target.md",
-    "pictures/Pasted image 20241111105113.png",
     "ICEC29-ICMC2024 LH2 Poster.md"
   ]
 }
