@@ -33,3 +33,6 @@ Extreme data points seem to ruin fitting. Now excluded:
 ![[Pasted image 20241119164346.png]]
 
 A function which calculates the average percentage DOCA residual across a range of energies and trajectories suggests ~10%.
+
+Implementing methods for straw arrays and visualisation, paths through multiple tubes are possible.
+![[Pasted image 20241121190043.png]]
