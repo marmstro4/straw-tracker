@@ -36,3 +36,12 @@ A function which calculates the average percentage DOCA residual across a range 
 
 Implementing methods for straw arrays and visualisation, paths through multiple tubes are possible.
 ![[Pasted image 20241121190043.png]]
+
+Plotting in black the real DOCA and in red the reconstructed DOCA. New alogorithm seems to do a nice job.
+
+![[Pasted image 20241122142150.png]]
+
+
+The average z is reconstructed with ~2-3 mm resolution:  (more statistics suggested 2.4mm... wait till have thousands) 
+
+![[Pasted image 20241122155905.png]]
