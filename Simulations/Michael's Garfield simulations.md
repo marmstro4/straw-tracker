@@ -1,15 +1,17 @@
 Building upon the work of [[Garfield++|Heather and Griffin]] a number of drift cell design parameters were investigated:
 
-1. Simulated gas-mixtures
-2. Electrode voltage
+1.[[ Simulated gas-mixtures]]
+2. [[Electrode voltage]]
 3. [[Cell radius]]
-4. Number of cell layers
+4. [[Number of cell layers]]
+
+The dependence on the energy of the[[ ejectile]] was also studied
 
 [[Gas system|A variety of gas-mixtures are available ]] here mixtures of Helium/Argon-CO2/Methane
 
 In order to get DOCA from the drift chambers (using which the trajectory can be reconstructed), one must convert from the charge vs time plot.
 
-Questions arrise reguarding how to do this. The so called "D-T correlation". The brass tacks are available ![[note95-022.pdf|here]].
+Questions arise regarding how to do this. The so called "D-T correlation". The brass tacks are available ![[note95-022.pdf|here]].
 Here is an example plot of drift time vs charge collected from a Garfield simulation:
 
 ![[Pasted image 20241118103437.png]]
