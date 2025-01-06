@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f3a4e9cd9695862",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "pictures/Pasted image 20241125151806.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241125151806"
-            }
-          },
-          {
-            "id": "487a9daca516b673",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "pictures/Pasted image 20241125151625.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241125151625"
-            }
-          },
-          {
             "id": "72e7a9f454ddf753",
             "type": "leaf",
             "state": {
@@ -45,8 +21,7 @@
               "title": "Geometrical simulations"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,28 +164,39 @@
   },
   "active": "72e7a9f454ddf753",
   "lastOpenFiles": [
-    "Pasted image 20241210161406.png",
-    "Pasted image 20241205172301.png",
-    "Pasted image 20241205164018.png",
-    "Pasted image 20241205163822.png",
-    "Simulations/Michael's Garfield simulations.md",
     "Simulations/Geometrical simulations.md",
+    "Mechanics/Mechanics.md",
+    "Simulations/Simulations.md",
+    "4hits.png",
+    "local_minima.png",
+    "efficientcz.xlsx",
+    "pictures/Pasted image 20250105184119.png",
+    "pictures/Pasted image 20250105184039.png",
+    "documents/efficientcz 2.xlsx",
+    "documents/efficientcz 1.xlsx",
+    "documents/efficientcz.xlsx",
+    "Simulations/Number of cell layers.md",
+    "Mechanics/ExPRT-target.md",
     "Simulations/griffin.md",
+    "pictures/dimentions.png",
+    "pictures/boxes.png",
+    "pictures/5.png",
+    "pictures/5 1.png",
+    "pictures/box.png",
+    "pictures/Expert_Diagram.png",
+    "pictures/Home.md",
+    "Simulations/Michael's Garfield simulations.md",
+    "3D geometrical simulations.md",
+    "Simulations/Simulated gas-mixtures.md",
+    "Simulations/stopping power.md",
+    "Simulations/Cell radius.md",
     "Simulations/Garfield++.md",
+    "amplification/shaping.md",
     "Simulations/Electrode voltage.md",
     "Simulations/ejectile.md",
-    "Simulations/Cell radius.md",
-    "Mechanics/ExPRT-target.md",
-    "pictures/Pasted image 20241125151806.png",
-    "pictures/Pasted image 20241126124857.png",
-    "Simulations/Number of cell layers.md",
+    "Electronics/PreAmp.md",
+    "Electronics/Electronics.md",
     "Gas/Gas system.md",
-    "pictures/Pasted image 20241125151625.png",
-    "Simulations/Simulated gas-mixtures.md",
-    "pictures/Pasted image 20241124160837.png",
-    "pictures/Pasted image 20241125142116.png",
-    "pictures/Pasted image 20241125130433.png",
-    "pictures/Pasted image 20241124161153.png",
     "Trackers",
     "Gas",
     "Electronics",
@@ -218,20 +204,9 @@
     "Simulations",
     "here.md",
     "documents/note95-022.pdf",
-    "Simulations/Simulations.md",
-    "Home.md",
-    "documents/UserGuide.pdf",
-    "Mechanics/Mechanics.md",
     "Trackers/Na62-tracker.md",
-    "documents/RE-TDR-2017-001.pdf",
-    "Simulations/stopping power.md",
-    "documents/Na62-StrawTracker.pdf",
     "simulate.md",
     "README.md",
-    "Electronics/PreAmp.md",
-    "documents/1311.3893v2.pdf",
-    "Electronics/Electronics.md",
-    "amplification/shaping.md",
     "ICEC29-ICMC2024 LH2 Poster.md"
   ]
 }

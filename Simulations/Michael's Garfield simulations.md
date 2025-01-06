@@ -48,3 +48,11 @@ The average z is reconstructed with ~2-3 mm resolution:  (more statistics sugges
 
 ![[Pasted image 20241122155905.png]]
 
+Ultimately however the resolution didn't improve very much as the GARFIELD drift cell properties (i.e [[Electrode voltage]],  [[Cell radius]], [[Simulated gas-mixtures]]).
+
+It did however change significantly depending upon the [[Number of cell layers]] and the [[Cell radius]].
+
+This suggests the properties of the cells themselves aren't so sensitive (so long as industry norms are adopted) and that the resolution is dominated by the arrangement of these cells.
+
+A series of purely [[Geometrical simulations]] where therefore produced.
+

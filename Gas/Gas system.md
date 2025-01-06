@@ -29,6 +29,4 @@ The [[stopping power]] of 100 MeV protons in all these gases is a few keV so don
 
 
 
-**Safety** should try to stick away from flammable gases
-
-Study mixtures He/Ar-Co2 in large then small increments
+**For the sake of safety should try to stick away from flammable gases**
