@@ -108,8 +108,9 @@ Here the effective efficiency is those out of those events that had more than 2 
 
 As the multiplicity increases the proportion of events in the bulges closer and closer to the middle increases. The resolution of that excellent peak in the middle does not change. 
 
-As it stands the reconstruction algorithm needs to be improved and its results understood. For now it is at least sufficient to say that we should target an average of 4 hits.
+[[track reconstruction | As it stands the reconstruction algorithm needs to be improved]] and its results understood. For now it is at least sufficient to say that we should target an average of 4 hits.
 
 A 2mm straw spacing along z with a 1mm spacing along xy and a z axis offset maximises efficiency and achieves a average hit number of 3.4. 
 
 Adding one more layer of straws would best satisfy this benchmark provided funding is available. 
+

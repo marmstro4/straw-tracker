@@ -5,6 +5,8 @@ To this end [[Garfield++]] simulations were produced by one of Heather's undergr
 ]]
 From this it was concluded that a series of[[Geometrical simulations| purely geometrical simulations]] were required to decide where to put the newly designed drift cells
 
+The reconstruction algorithm used in these simulates was based on the ROOT minuet2 minimiser. This produced strange results so a [[track reconstruction|track reconstruction algorithm ]]was written in python.
+
 
 
 
