@@ -67,7 +67,7 @@ Now updating the geometrical simulations with this in mind
 
 XY
 
-![[Pasted image 20250105184119.png]]
+![[reco_z.png]]
 
 ZY
 

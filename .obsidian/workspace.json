@@ -11,10 +11,14 @@
             "id": "72e7a9f454ddf753",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Simulations/track reconstruction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "track reconstruction"
             }
           }
         ]
@@ -160,30 +164,30 @@
   },
   "active": "72e7a9f454ddf753",
   "lastOpenFiles": [
+    "Mechanics/ExPRT-target.md",
+    "Mechanics/Mechanics.md",
     "Simulations/track reconstruction.md",
-    "Simulations/Simulations.md",
     "Simulations/Geometrical simulations.md",
+    "Simulations/griffin.md",
     "pictures/Pasted image 20250108112214.png",
+    "pictures/resolution.png",
+    "Simulations/Simulations.md",
     "Simulations/Michael's Garfield simulations.md",
     "Simulations/Simulated gas-mixtures.md",
     "Simulations/Number of cell layers.md",
     "Simulations/Garfield++.md",
-    "Mechanics/Mechanics.md",
     "pictures/4hits.png",
     "pictures/local_minima.png",
     "efficientcz.xlsx",
-    "pictures/Pasted image 20250105184119.png",
+    "pictures/reco_z.png",
     "pictures/Pasted image 20250105184039.png",
     "documents/efficientcz 2.xlsx",
     "documents/efficientcz 1.xlsx",
     "documents/efficientcz.xlsx",
-    "Mechanics/ExPRT-target.md",
-    "Simulations/griffin.md",
     "pictures/dimentions.png",
     "pictures/boxes.png",
     "pictures/5.png",
     "pictures/5 1.png",
-    "pictures/box.png",
     "pictures/Home.md",
     "3D geometrical simulations.md",
     "Simulations/stopping power.md",

@@ -31,3 +31,17 @@ According to the [[Geometrical simulations]] the "2mm z spacing 1mm xy spacing z
 Therefore probably best to go for the 2mm z spacing option.
 
 
+Previously the default (SLSQP) python minimiser was used. Here various options were investigated
+
+| engine      | resolution | # counts in 1sigma | comments                            |
+| ----------- | ---------- | ------------------ | ----------------------------------- |
+| SLSQP       | 500        | 2613               | Guassian, small tailes              |
+| BFGS        | 364        | 1194               | Guassian, large tailes              |
+| Powell      | 308        | 3199               | Perfect Guassian, slow              |
+| Nelder-Mead | 291.5      | 3242               | Slightly offcentre, slow            |
+| CG          | 235        | 2164               | Slightly offcentre high vertex tail |
+| L-BFGS-B    | 543        | 2500               | Gaussian, small tails               |
+| COBYLA      | 677        | 2200               | Gaussian, large tails               |
+Here Powell and Nelder-Mead achieve near twice better resolutions than the SLSQP. No missing counts being poorly reconstructed and therefore lost. Both ran at ~20-30 proton events per second. Powell's shape was near perfectly gaussian while the mean was shifted in Nelder-Mead.
+
+With the more understandable shape Powell was selected.
