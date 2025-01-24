@@ -45,3 +45,16 @@ Previously the default (SLSQP) python minimiser was used. Here various options w
 Here Powell and Nelder-Mead achieve near twice better resolutions than the SLSQP. No missing counts being poorly reconstructed and therefore lost. Both ran at ~20-30 proton events per second. Powell's shape was near perfectly gaussian while the mean was shifted in Nelder-Mead.
 
 With the more understandable shape Powell was selected.
+
+The detection efficiency and resolution were also investigated as a function of the number of possible layers and the size of the straws.
+
+| layers | resolution | geometric efficiency [%] | efficiency in 3 sigma [%]<br> |
+| ------ | ---------- | ------------------------ | ----------------------------- |
+| 2      | 370        | 24.9                     | 23.6                          |
+| 3      | 356        | 67.8                     | 65.8                          |
+| 4      | 325        | 73.1                     | 71.1                          |
+| 5      | 322        | 73.8                     | 71.9                          |
+| 6      | 332        | 73.4                     | 71.4                          |
+| 7      | 320        | 73.1                     | 70.8                          |
+| 8      | 317        | 73.4                     | 71.7                          |
+Contrary to intuitions it is still possible to reconstruct with 2 layers. This is because particles scatter in 3D and there's still 100 straws in this configuration.
