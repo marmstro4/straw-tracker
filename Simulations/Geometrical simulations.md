@@ -114,3 +114,10 @@ A 2mm straw spacing along z with a 1mm spacing along xy and a z axis offset maxi
 
 Adding one more layer of straws would best satisfy this benchmark provided funding is available. 
 
+In these simulations protons are assumed to be emitted isotropically. Travelling at relativistic velocities along the z axis, a strong lorenz boost is anticpated for knocked out protons.
+
+The positioning of straws must therefore be optimized for where protons are likely to be knocked out. Assuming protons are knocked out isotropically in the ion reference frame at ~200MeV, the relativistic velocity addition formula can be used to obtain the lorenz boost. Implmenting this into the geometric simulations one obtains a forward conical shift in proton trajectories as shown below.
+
+![[Pasted image 20250128144940.png]]
+
+This suggests more straws are required downstream of the target. 

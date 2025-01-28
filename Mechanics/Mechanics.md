@@ -33,3 +33,24 @@ Here is a cad drawing of one of the four modules featuring plastic screwing poin
 
 ![[boxes.png]]
 
+The target cell itself is 150mm long with an internal radius of 30mm. It is shown in red.
+
+![[Pasted image 20250123185005.png]]
+
+It is enclosed by a vacuum chamber of radius 63.5 and length 270mm. It is transparent in these images. It is also fed by a LH2 exchange arm shown in green.
+
+![[Pasted image 20250123184939.png]]
+
+Based on these dimensions inside the 150mm radius sphere the following combinations of layers and rows for particular radii maximise coverage around the cell. Too few rows and its not long enough. Too few layers its not tall enough.
+
+| straw radius [mm] | layers | rows | straws |
+| ----------------- | ------ | ---- | ------ |
+| 2                 | 2      | 39   | 312    |
+| 3                 | 3      | 26   | 312    |
+| 4                 | 4      | 20   | 320    |
+| 5                 | 4      | 20   | 288    |
+| 5                 | 5      | 16   | 320    |
+| 6                 | 3      | 13   | 156    |
+Here is a comparison of the two 5mm options in the yz plane:
+
+![[options.png]]

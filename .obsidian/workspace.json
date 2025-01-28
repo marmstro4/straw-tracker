@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simulations/track reconstruction.md",
+                "file": "Simulations/Geometrical simulations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "track reconstruction"
+              "title": "Geometrical simulations"
             }
           }
         ]
@@ -164,16 +164,21 @@
   },
   "active": "72e7a9f454ddf753",
   "lastOpenFiles": [
-    "Simulations/stopping power.md",
+    "Pasted image 20250128144940.png",
+    "Pasted image 20250128144635.png",
     "Simulations/track reconstruction.md",
-    "Simulations/Simulations.md",
-    "Simulations/Simulated gas-mixtures.md",
-    "Simulations/Number of cell layers.md",
-    "documents/UserGuide.pdf",
-    "Simulations/Garfield++.md",
+    "Simulations/Geometrical simulations.md",
     "Mechanics/ExPRT-target.md",
     "Mechanics/Mechanics.md",
-    "Simulations/Geometrical simulations.md",
+    "options.png",
+    "pictures/Pasted image 20250123185005.png",
+    "pictures/Pasted image 20250123184939.png",
+    "Simulations/Number of cell layers.md",
+    "Simulations/stopping power.md",
+    "Simulations/Simulations.md",
+    "Simulations/Simulated gas-mixtures.md",
+    "documents/UserGuide.pdf",
+    "Simulations/Garfield++.md",
     "Simulations/griffin.md",
     "pictures/Pasted image 20250108112214.png",
     "pictures/resolution.png",
@@ -186,10 +191,6 @@
     "documents/efficientcz 2.xlsx",
     "documents/efficientcz 1.xlsx",
     "documents/efficientcz.xlsx",
-    "pictures/dimentions.png",
-    "pictures/boxes.png",
-    "pictures/5.png",
-    "pictures/5 1.png",
     "pictures/Home.md",
     "3D geometrical simulations.md",
     "Simulations/Cell radius.md",

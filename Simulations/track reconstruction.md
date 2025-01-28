@@ -46,15 +46,27 @@ Here Powell and Nelder-Mead achieve near twice better resolutions than the SLSQP
 
 With the more understandable shape Powell was selected.
 
-The detection efficiency and resolution were also investigated as a function of the number of possible layers and the size of the straws.
+The detection efficiency and resolution were also investigated as a function of the number of possible layers and the size of the straws. Here efficiency in 3 sigma is simply a check for how many events with 3 hits were reconstructed in the peak rather than lost. This is effectively the loss in the reconstruction stage and is on the order of a few percent.
 
-| layers | resolution | geometric efficiency [%] | efficiency in 3 sigma [%]<br> |
-| ------ | ---------- | ------------------------ | ----------------------------- |
-| 2      | 370        | 24.9                     | 23.6                          |
-| 3      | 356        | 67.8                     | 65.8                          |
-| 4      | 325        | 73.1                     | 71.1                          |
-| 5      | 322        | 73.8                     | 71.9                          |
-| 6      | 332        | 73.4                     | 71.4                          |
-| 7      | 320        | 73.1                     | 70.8                          |
-| 8      | 317        | 73.4                     | 71.7                          |
+| layers | resolution [um] | geometric efficiency [%] | efficiency in 3 sigma [%]<br> |
+| ------ | --------------- | ------------------------ | ----------------------------- |
+| 2      | 370             | 24.9                     | 23.6                          |
+| 3      | 356             | 67.8                     | 65.8                          |
+| 4      | 325             | 73.1                     | 71.1                          |
+| 5      | 322             | 73.8                     | 71.9                          |
+| 6      | 332             | 73.4                     | 71.4                          |
+| 7      | 320             | 73.1                     | 70.8                          |
+| 8      | 317             | 73.4                     | 71.7                          |
 Contrary to intuitions it is still possible to reconstruct with 2 layers. This is because particles scatter in 3D and there's still 100 straws in this configuration.
+
+This table shows there is not a significant decline in efficiency and resolution with only four layers. Geometries including numbers of layers other than 5 and the number of rows that optimize the geometric coverage [[Mechanics|were then studied for different possible radii]].
+
+The detection efficiency and resolution were again studied for these newly identified options:
+
+| straw radius [mm] | layers | rows | resolution [um] | geometric efficiency [%] | efficiency in 3 sigma [%] |
+| ----------------- | ------ | ---- | --------------- | ------------------------ | ------------------------- |
+| 3                 | 3      | 34   | 482             | 71.0                     | 69.6                      |
+| 4                 | 4      | 24   | 431             | 75.9                     | 73.6                      |
+| 5                 | 4      | 18   | 461             | 71.0                     | 69.9                      |
+| 5                 | 5      | 16   | 344<br>         | 64.8                     | 64.5                      |
+| 6                 | 3      | 16   | 469             | 67.3                     | 65.7                      |
