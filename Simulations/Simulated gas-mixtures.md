@@ -1,3 +1,5 @@
+#simulations
+
 As explored in [[Gas system]] there are many possble gas mixtures. 
 
 The two focused on here are He-co2 and Ar-co2.

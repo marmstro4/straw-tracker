@@ -1,3 +1,5 @@
+#simulations
+
 In response to the failure of the ROOT minuet2 minimiser to produce adequately understandable and consistent results a separate python program called "radialfit.py" was written. It is available https://github.com/marmstro4/variableaxiscylinderfit along with some example cylinders to fit.
 
 It works by calculating the residual distance from the surface of a series of cylinders defined by (x,y,z,r,L,mod) to a line representing a charged particle track defined by (x0,y0,z0,ux,uy,uz). 

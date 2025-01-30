@@ -1,3 +1,5 @@
+#simulations
+
 I did an investigation into the change in vertex resolution as a function of the number of rows.
 
 ![[Pasted image 20241126124857.png]]

@@ -1,3 +1,5 @@
+#electronics
+
 The straw tracker PreAmp is a front end electronics device that recieves the charge deposited by electronics ionised in the drift cell and amplifies and shapes it.
 
 The amplification is fairly self-explanitory while conventional shaping is a [more-complicated process](https://link.springer.com/article/10.1007/s41365-020-00799-2).

@@ -1,4 +1,4 @@
-
+#simulations
 
 [[Michael's Garfield simulations|Having learned the design parameters of the straws themselves aren't so sensitive]] outside of size and positioning a series of geometrical simulations were performed.
 
@@ -114,10 +114,47 @@ A 2mm straw spacing along z with a 1mm spacing along xy and a z axis offset maxi
 
 Adding one more layer of straws would best satisfy this benchmark provided funding is available. 
 
-In these simulations protons are assumed to be emitted isotropically. Travelling at relativistic velocities along the z axis, a strong lorenz boost is anticpated for knocked out protons.
+In these simulations protons are assumed to be emitted isotropically. Travelling at relativistic velocities along the z axis, a strong lorenz boost is anticipated for knocked out protons.
 
-The positioning of straws must therefore be optimized for where protons are likely to be knocked out. Assuming protons are knocked out isotropically in the ion reference frame at ~200MeV, the relativistic velocity addition formula can be used to obtain the lorenz boost. Implmenting this into the geometric simulations one obtains a forward conical shift in proton trajectories as shown below.
+The positioning of straws must therefore be optimized for where protons are likely to be knocked out. Assuming protons are knocked out isotropically in the ion reference frame at ~200MeV, the relativistic velocity addition formula can be used to obtain the lorenz boost. Implementing this into the geometric simulations one obtains a forward conical shift in proton trajectories as shown below.
 
 ![[Pasted image 20250128144940.png]]
 
 This suggests more straws are required downstream of the target. 
+
+A few shifted array geometries were investigated.
+
+1. r=4mm straws shifted with end gap
+2. Same with the top layer in line shifted forwards in z so inline with layer below
+3. r=5mm straws shifted with end gap
+4. Same again with the top layer in line shifted forwards in z so inline with layer below
+5. r=4mm straws shifted with end gap, but with 3 layers so longer
+
+Option 1:
+
+![[Pasted image 20250129153750.png]]
+
+option 3:
+
+![[Pasted image 20250129174210.png]]
+
+Here are the results of these investigations:
+
+| option | resolution [um] | Geometric efficiency [%] | 3sigma efficiency [%] |
+| ------ | --------------- | ------------------------ | --------------------- |
+| 1      | 442             | 67.7                     | 66.9                  |
+| 2      | 437             | 69.5                     | 68.7                  |
+| 3      | 448             | 71.8                     | 70.6                  |
+| 4      | 451             | 71.6                     | 70.6                  |
+| 5      | 436             | 70.67                    | 69.5                  |
+It seems that although you can fit more straws into the overhang with 0.5mm straws, the reduced coverage at backward angles eliminates any gains compared to 5mm straws that can span the distance.
+
+What if we went for 3 layers at 4mm? (Added to table as option 5). The efficiency is not much better or worse. Probably the simplest geometrically speaking. 
+
+Many experiments will make use of a 5cm not 15cm target however. In this case the gains obtained in terms of efficiency in the end regions will be lesser. In these experiments it is of course better to have 4 layers, as there is better coverage in the mid region where in the smaller target more ions are emitted.
+
+As a side note, when the lorenz boost was introduced reconstructed z vertex distribution becomes pointer, so much so that its no longer perfectly described by a Gaussian distribution.
+
+![[Pasted image 20250129173116.png]]
+
+Option 3, [[Pasted image 20250129174210.png|as seen above]], seems to be the best option. Consisting of 296 straws, achieving a 448um resolution and reconstructing 71% of all events into final peak. It is worth noting that the efficiency with the 5cm target is 77%.
