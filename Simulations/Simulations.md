@@ -13,3 +13,8 @@ The reconstruction algorithm used in these simulates was based on the ROOT minue
 
 
 
+
+| Efficiency/channels [%/#] | 1      | 2      | 3      | 4      |
+| ------------------------- | ------ | ------ | ------ | ------ |
+| 4 rows                    | 0.3/76 | 80/152 | 82/228 | 82/304 |
+| 5 rows                    | 0.3/96 | 84/192 | 86/288 | 86/384 |

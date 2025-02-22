@@ -72,3 +72,4 @@ The detection efficiency and resolution were again studied for these newly ident
 | 5                 | 4      | 18   | 461             | 71.0                     | 69.9                      |
 | 5                 | 5      | 16   | 344<br>         | 64.8                     | 64.5                      |
 | 6                 | 3      | 16   | 469             | 67.3                     | 65.7                      |
+

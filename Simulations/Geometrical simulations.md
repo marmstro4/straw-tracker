@@ -158,3 +158,9 @@ As a side note, when the lorenz boost was introduced reconstructed z vertex dist
 ![[Pasted image 20250129173116.png]]
 
 Option 3, [[Pasted image 20250129174210.png|as seen above]], seems to be the best option. Consisting of 296 straws, achieving a 448um resolution and reconstructing 71% of all events into final peak. It is worth noting that the efficiency with the 5cm target is 77%.
+
+It turns out the target cell is not actually centered in the vacuum chamber. It's shifted forward 22.74mm from the midpoint. Furthermore its actully only 144mm long and looks like this.
+
+![[Pasted image 20250203150232.png]]
+
+In this case option 3 obtains only 65.3% efficiency. Assuming the 5cm target is still centered, its resolution actually improves to 78%.
